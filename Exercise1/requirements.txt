@@ -1,0 +1,7 @@
+#python=3.11
+numpy
+jupyter
+matplotlib
+pandas
+scipy
+scikit-learn
